@@ -1,6 +1,7 @@
+"use client";
 import Image from "next/image";
 import styles from "./page.module.css";
-"use client";
+
 
 import { useEffect, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
